@@ -11,7 +11,7 @@ const downloadLink = [
   {
     id: "/download/customizable-days-played/001-b7422e98-c6d4-4a8f-9ba0-6b036d82a21c",
     fileName: "Customizable Days Played v0.0.1",
-    filePath: "/download/CustomizableDaysPlayed/v100.mcpack",
+    filePath: "/download/CustomizableDaysPlayed/v001.mcpack",
     formatFile: "mcpack",
   },
   
