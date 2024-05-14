@@ -4,6 +4,7 @@ import Home from './pages/home';
 import DownloadFile from './pages/download/downloadFile';
 import DownloadLink from './pages/download/downloadLink';
 import Ads from './pages/ads';
+import Blank from './pages/blank';
 
 const App = () => {
   return (
@@ -26,6 +27,11 @@ const App = () => {
             key={"/ads"}
             path={"/ads"}
             element={<Ads />}
+          />
+          <Route
+            key={"*"}
+            path={"*"}
+            element={<Blank />}
           />
         </Routes>
       </Router>
