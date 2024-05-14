@@ -5,8 +5,8 @@ const blankLink = [
   // default 
   {
     id: "*",
-    blankTitle: "🗿",
-    blankMessage: "daijobu",
+    blankTitle: "🤥",
+    blankMessage: "The page you entered doesn't exist :( <br /> If this page is a download link, please report it to the discord or YouTube server @Dimz_craft",
   },
 ];
 
