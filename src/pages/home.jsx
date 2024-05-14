@@ -7,7 +7,10 @@ const Home = () => {
       <div style={{ marginTop: "100px" }}></div>
       <center>
       <h1>Nothing</h1>
-      <div>emmm, did you press cancel download? check the link history and enter the download link again :)</div>
+      <div>
+        I'm currently making a website :), <br />
+        download my texture pack or addons on <a href="https://modbay.org/user/Dimzcraft/">Modbay</a> and <a href="https://mcpedl.com/user/dimzcraft/">Mcpedl</a>
+      </div>
       </center>
     </div>
   );
