@@ -58,7 +58,7 @@ const downloadLink = [
   // Unobstructive Item Name
   {
     id: "/download/unobstructive-item-name/001-c2f3340b-fa18-43dd-a11a-e42bbc6ed025",
-    fileName: "Unobstructive Item Name",
+    fileName: "Unobstructive Item Name v0.0.1",
     filePath: "/download/UnobstructiveItemName/v001.mcpack",
     formatFile: "mcpack",
   },
