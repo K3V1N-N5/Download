@@ -25,7 +25,7 @@ const downloadLink = [
   
   // Durability Tools Viewer
   {
-    id: "/download/durability-tools-Viewer/003-0c641a1b-34a6-453d-9901-1cb962c76b27",
+    id: "/download/durability-tools-viewer/003-0c641a1b-34a6-453d-9901-1cb962c76b27",
     fileName: "Durability Tools Viewer v0.0.3",
     filePath: "/download/DurabilityToolsViewer/v003.mcpack",
     formatFile: "mcpack",
