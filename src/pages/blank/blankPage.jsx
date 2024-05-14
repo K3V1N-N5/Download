@@ -6,7 +6,7 @@ const BlankPage = ({ props }) => {
       <div style={{ marginTop: '100px' }}></div>
       <center>
         <h1>{props.blankTitle}</h1>
-        <p>{props.blankMessage}</p>
+        <div dangerouslySetInnerHTML={{ __html: props.blankMessage }}></div>
       </center>
     </div>
   );
