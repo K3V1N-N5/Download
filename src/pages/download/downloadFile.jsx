@@ -6,7 +6,7 @@ const DownloadFile = ({ props }) => {
   useEffect(() => {
     
     const fetchData = async () => {
-      if (window.confirm(`Apakah Anda ingin mengunduh file ${props.fileName}.${props.formatFile}?`)) {
+      if (window.confirm(`Do you want to download the ${props.fileName}.${props.formatFile}?`)) {
         try {
           const response = await fetch(props.filePath);
           const blob = await response.blob();
