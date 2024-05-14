@@ -5,6 +5,7 @@ import DownloadFile from './pages/download/downloadFile';
 import DownloadLink from './pages/download/downloadLink';
 import Ads from './pages/ads';
 import Blank from './pages/blank';
+import DownloadCancel from './pages/downloadCancel';
 
 const App = () => {
   return (
@@ -32,6 +33,11 @@ const App = () => {
             key={"*"}
             path={"*"}
             element={<Blank />}
+          />
+          <Route
+            key={"/download-cancel"}
+            path={"/download-cancel"}
+            element={<DownloadCancel />}
           />
         </Routes>
       </Router>
