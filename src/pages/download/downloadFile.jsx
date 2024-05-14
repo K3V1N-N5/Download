@@ -29,7 +29,7 @@ const DownloadFile = ({ props }) => {
           console.error("Error downloading file:", error);
         }
       } else {
-        navigate("/");
+        navigate("/download-cancel");
       }
     };
 
