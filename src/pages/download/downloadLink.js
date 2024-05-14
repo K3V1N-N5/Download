@@ -50,7 +50,7 @@ const downloadLink = [
   // Ore Info Viewer
   {
     id: "/download/ore-info-viewer/002-d199ebd9-3b8e-4048-b440-7a4f8ea6ca8a",
-    fileName: "Ore INfo VIewer v0.0.2",
+    fileName: "Ore Info VIewer v0.0.2",
     filePath: "/download/OreInfoViewer/v002.mcpack",
     formatFile: "mcpack",
   },
