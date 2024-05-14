@@ -5,7 +5,7 @@ import Home from './pages/home';
 import DownloadFile from './pages/download/downloadFile';
 import DownloadLink from './pages/download/downloadLink';
 import BlankPage from './pages/blankPage';
-import BlankLink from './pages/blankPage';
+import BlankLink from './pages/blankLink';
 
 const App = () => {
   return (
