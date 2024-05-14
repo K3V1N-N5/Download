@@ -6,7 +6,7 @@ const BlankPage = ({ props }) => {
       <div style={{ marginTop: '100px' }}></div>
       <center>
         <h1>{props.blankTitle}</h1>
-        <div>{props.blankMessage}</div>
+        <p>{props.blankMessage}</p>
       </center>
     </div>
   );
