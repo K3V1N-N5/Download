@@ -18,7 +18,7 @@ const Ads = ({ props }) => {
     <div>
       <center>
         <div>
-          <div style={{ marginTop: "100px" }}>ADS</div>
+          <div style={{ marginTop: "100px" }}></div>
           Downloading file... <br />
           If download error please use browser: Chrome, Edge,FireFox, Vivaldi <br />
           If you don't get the download file, please chat to the discord server or comment on YouTube @dimz_craft
