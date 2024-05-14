@@ -38,6 +38,7 @@ const DownloadFile = ({ props }) => {
 
   return (
     <center>
+      <div style={{ marginTop: "100px" }}></div>
       Downloading File...
     </center>
   );
