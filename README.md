@@ -12,7 +12,7 @@ In the project directory, you can run:
 
 - [v0.0.1](https://dimz-project.vercel.app/download/customizable-days-played/001-b7422e98-c6d4-4a8f-9ba0-6b036d82a21c)
 - [v0.0.2](https://dimz-project.vercel.app/download/customizable-days-played/002-94d188c1-31a7-4476-82b2-5b614bda038c)
-- [v0.0.2](https://dimz-project.vercel.app/download/customizable-days-played/003-94d188c1-31a7-4476-82b2-5b614bda038c)
+- [v0.0.3](https://dimz-project.vercel.app/download/customizable-days-played/003-94d188c1-31a7-4476-82b2-5b614bda038c)
 
 ### Day Counter Addon
 
