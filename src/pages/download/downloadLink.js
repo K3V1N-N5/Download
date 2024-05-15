@@ -37,7 +37,7 @@ const downloadLink = [
   {
     id: "/download/day-counter-addon/004-aa390588-c865-4377-948d-c80220e1dc46",
     fileName: "Day Counter Addon v0.0.4",
-    filePath: "/download/DayCounterAddon/v004.mcpack",
+    filePath: "/download/DayCounterAddon/v004.mcaddon",
     formatFile: "mcaddon",
   },
   
