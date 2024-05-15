@@ -34,6 +34,12 @@ const downloadLink = [
     filePath: "/download/DayCounterAddon/v003.mcaddon",
     formatFile: "mcaddon",
   },
+  {
+    id: "/download/day-counter-addon/004-aa390588-c865-4377-948d-c80220e1dc46",
+    fileName: "Day Counter Addon v0.0.4",
+    filePath: "/download/DayCounterAddon/v004.mcaddon",
+    formatFile: "mcaddon",
+  },
   
   // Durability Tools Viewer
   {
@@ -87,8 +93,6 @@ const downloadLink = [
 export default downloadLink;
 
 /* cadangan uuid
-
-aa390588-c865-4377-948d-c80220e1dc46
 
 7446b9bf-778a-4174-a52a-77d8a6f56162
 
