@@ -14,6 +14,12 @@ const downloadLink = [
     filePath: "/download/CustomizableDaysPlayed/v001.mcpack",
     formatFile: "mcpack",
   },
+  {
+    id: "/download/customizable-days-played/002-94d188c1-31a7-4476-82b2-5b614bda038c",
+    fileName: "Customizable Days Played v0.0.2",
+    filePath: "/download/CustomizableDaysPlayed/v002.mcpack",
+    formatFile: "mcpack",
+  },
   
   // Day Counter Addon
   {
@@ -75,8 +81,6 @@ const downloadLink = [
 export default downloadLink;
 
 /* cadangan uuid
-
-94d188c1-31a7-4476-82b2-5b614bda038c
 
 aa390588-c865-4377-948d-c80220e1dc46
 
