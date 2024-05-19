@@ -6,6 +6,14 @@ const downloadLink = [
     filePath: "/download/AnotherUi/v200.mcpack",
     formatFile: "mcpack",
   },
+
+  // Available Inventory Viewer
+  {
+    id: "/download/available-inventory-viewer/001-7446b9bf-778a-4174-a52a-77d8a6f56162",
+    fileName: "Available Inventory Viewer v0.0.1",
+    filePath: "/download/AnotherUi/v001.mcpack",
+    formatFile: "mcpack",
+  },
   
   // Customizable Days Played
   {
@@ -93,8 +101,6 @@ const downloadLink = [
 export default downloadLink;
 
 /* cadangan uuid
-
-7446b9bf-778a-4174-a52a-77d8a6f56162
 
 fbe71cae-24a5-4200-b80f-ec9246af3dcd
 
