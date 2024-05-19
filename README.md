@@ -6,7 +6,11 @@ In the project directory, you can run:
 
 ### Another UI
 
-- [v0.2.0](https://dimz-project.vercel.app/download/another-ui/200-90070602-9b65-425c-a642-f93e9d239fc2)
+- [v2.0.0](https://dimz-project.vercel.app/download/another-ui/200-90070602-9b65-425c-a642-f93e9d239fc2)
+
+### Available Inventory Viewer
+
+- [v0.0.1](https://dimz-project.vercel.app/download/available-inventory-viewer/001-7446b9bf-778a-4174-a52a-77d8a6f56162)
 
 ### Customizable Days Played
 
