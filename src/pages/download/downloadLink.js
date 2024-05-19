@@ -11,7 +11,7 @@ const downloadLink = [
   {
     id: "/download/available-inventory-viewer/001-7446b9bf-778a-4174-a52a-77d8a6f56162",
     fileName: "Available Inventory Viewer v0.0.1",
-    filePath: "/download/AnotherUi/v001.mcpack",
+    filePath: "/download/AvailableInventoryViewer/v001.mcpack",
     formatFile: "mcpack",
   },
   
