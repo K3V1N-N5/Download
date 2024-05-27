@@ -14,6 +14,12 @@ const downloadLink = [
     filePath: "/download/AvailableInventoryViewer/v001.mcpack",
     formatFile: "mcpack",
   },
+  {
+    id: "/download/available-inventory-viewer/002-89452cd5-a864-4e67-a93c-c32219e52c61",
+    fileName: "Available Inventory Viewer v0.0.2",
+    filePath: "/download/AvailableInventoryViewer/v002.mcpack",
+    formatFile: "mcpack",
+  },
   
   // Customizable Days Played
   {
@@ -46,6 +52,12 @@ const downloadLink = [
     id: "/download/day-counter-addon/004-aa390588-c865-4377-948d-c80220e1dc46",
     fileName: "Day Counter Addon v0.0.4",
     filePath: "/download/DayCounterAddon/v004.mcaddon",
+    formatFile: "mcaddon",
+  },
+  {
+    id: "/download/day-counter-addon/005-8d594e54-f2ef-4c26-8254-c1a9dfbd75b1",
+    fileName: "Day Counter Addon v0.0.5",
+    filePath: "/download/DayCounterAddon/v005.mcaddon",
     formatFile: "mcaddon",
   },
   
@@ -110,10 +122,6 @@ const downloadLink = [
 export default downloadLink;
 
 /* cadangan uuid
-
-89452cd5-a864-4e67-a93c-c32219e52c61
-
-8d594e54-f2ef-4c26-8254-c1a9dfbd75b1
 
 d45dfd48-9c1e-4d0f-a47a-8db4f62064bc
 
