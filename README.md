@@ -11,6 +11,7 @@ In the project directory, you can run:
 ### Available Inventory Viewer
 
 - [v0.0.1](https://dimz-project.vercel.app/download/available-inventory-viewer/001-7446b9bf-778a-4174-a52a-77d8a6f56162)
+- [v0.0.2](https://dimz-project.vercel.app/download/available-inventory-viewer/002-89452cd5-a864-4e67-a93c-c32219e52c61)
 
 ### Customizable Days Played
 
