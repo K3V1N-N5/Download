@@ -23,6 +23,10 @@ In the project directory, you can run:
 - [v0.0.3](https://dimz-project.vercel.app/download/day-counter-addon/003-df60c0c8-950c-428e-956c-6b4c6e9e3097)
 - [v0.0.4](https://dimz-project.vercel.app/download/day-counter-addon/004-aa390588-c865-4377-948d-c80220e1dc46)
 
+### Durability Armor Viewer
+
+- [v0.0.1](https://dimz-project.vercel.app/download/durability-armor-viewer/001-fbe71cae-24a5-4200-b80f-ec9246af3dcd)
+
 ### Durability Tools Viewer
 
 - [v0.0.3](https://dimz-project.vercel.app/download/durability-tools-viewer/003-0c641a1b-34a6-453d-9901-1cb962c76b27)
