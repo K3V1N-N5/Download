@@ -49,6 +49,15 @@ const downloadLink = [
     formatFile: "mcaddon",
   },
   
+  
+  // Durability Armor Viewer
+  {
+    id: "/download/durability-armor-viewer/001-fbe71cae-24a5-4200-b80f-ec9246af3dcd",
+    fileName: "Durability Armor Viewer v0.0.1",
+    filePath: "/download/DurabilityArmorViewer/v001.mcaddon",
+    formatFile: "mcaddon",
+  },
+  
   // Durability Tools Viewer
   {
     id: "/download/durability-tools-viewer/003-0c641a1b-34a6-453d-9901-1cb962c76b27",
@@ -101,8 +110,6 @@ const downloadLink = [
 export default downloadLink;
 
 /* cadangan uuid
-
-fbe71cae-24a5-4200-b80f-ec9246af3dcd
 
 89452cd5-a864-4e67-a93c-c32219e52c61
 
