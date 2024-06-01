@@ -1,9 +1,5 @@
 # Dimz Project (private only)
 
-## list path
-
-In the project directory, you can run:
-
 ### Another UI
 
 - [v2.0.0](https://dimz-project.vercel.app/download/another-ui/200-90070602-9b65-425c-a642-f93e9d239fc2)
