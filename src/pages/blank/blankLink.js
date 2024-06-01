@@ -3,7 +3,7 @@ const blankLink = [
   {
     id: "*",
     blankTitle: "🤥",
-    blankMessage: "The page you entered doesn't exist :(<br />If this page is a download link, please report it to the discord or YouTube server @Dimz_craft",
+    blankMessage: "The page you entered doesn't exist :(<br />If this page is a download link, please report it to the discord server or YouTube @Dimz_craft",
   },
 
   // cancel download
