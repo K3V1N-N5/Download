@@ -21,6 +21,14 @@ const downloadLink = [
     formatFile: "mcpack",
   },
   
+  // Chunk Viewer
+  {
+    id: "/download/chunk-viewer/001-d45dfd48-9c1e-4d0f-a47a-8db4f62064bc",
+    fileName: "Chunk Viewer v0.0.1",
+    filePath: "/download/ChunkViewer/v001.mcpack",
+    formatFile: "mcpack",
+  },
+
   // Customizable Days Played
   {
     id: "/download/customizable-days-played/001-b7422e98-c6d4-4a8f-9ba0-6b036d82a21c",
@@ -122,8 +130,6 @@ const downloadLink = [
 export default downloadLink;
 
 /* cadangan uuid
-
-d45dfd48-9c1e-4d0f-a47a-8db4f62064bc
 
 f7c04723-df84-4f2a-9d31-f78be1bf4d3d
 
