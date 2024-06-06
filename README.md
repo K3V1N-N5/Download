@@ -11,7 +11,7 @@
 
 ### Chunk Viewer
 
-- [v0.0.1](https://dimz-project.vercel.app/download/download/chunk-viewer/001-d45dfd48-9c1e-4d0f-a47a-8db4f62064bc)
+- [v0.0.1](https://dimz-project.vercel.app/download/chunk-viewer/001-d45dfd48-9c1e-4d0f-a47a-8db4f62064bc)
 
 ### Customizable Days Played
 
