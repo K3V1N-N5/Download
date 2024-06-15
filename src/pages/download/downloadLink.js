@@ -21,6 +21,14 @@ const downloadLink = [
     formatFile: "mcpack",
   },
   
+  // Better Days Played
+  {
+    id: "/download/better-days-played/001-f7c04723-df84-4f2a-9d31-f78be1bf4d3d",
+    fileName: "Better Days Played v0.0.1",
+    filePath: "/download/BetterDaysPlayed/v001.mcpack",
+    formatFile: "mcpack",
+  },
+  
   // Chunk Viewer
   {
     id: "/download/chunk-viewer/001-d45dfd48-9c1e-4d0f-a47a-8db4f62064bc",
@@ -130,8 +138,6 @@ const downloadLink = [
 export default downloadLink;
 
 /* cadangan uuid
-
-f7c04723-df84-4f2a-9d31-f78be1bf4d3d
 
 d5a86204-714d-4469-aed5-f80bf33f10c9
 
