@@ -7,6 +7,10 @@
 - [v0.0.1](https://dimz-project.vercel.app/download/available-inventory-viewer/001-7446b9bf-778a-4174-a52a-77d8a6f56162)
 - [v0.0.2](https://dimz-project.vercel.app/download/available-inventory-viewer/002-89452cd5-a864-4e67-a93c-c32219e52c61)
 
+### Better Days Played
+
+- [v0.0.1](https://dimz-project.vercel.app/download/better-days-played/001-f7c04723-df84-4f2a-9d31-f78be1bf4d3d)
+
 ### Chunk Viewer
 
 - [v0.0.1](https://dimz-project.vercel.app/download/chunk-viewer/001-d45dfd48-9c1e-4d0f-a47a-8db4f62064bc)
