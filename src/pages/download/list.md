@@ -30,6 +30,7 @@
 ### Durability Armor Viewer
 
 - [v0.0.1](https://dimz-project.vercel.app/download/durability-armor-viewer/001-fbe71cae-24a5-4200-b80f-ec9246af3dcd)
+- [v0.0.2](https://dimz-project.vercel.app/download/durability-armor-viewer/002-d5a86204-714d-4469-aed5-f80bf33f10c9)
 
 ### Durability Tools Viewer
 
