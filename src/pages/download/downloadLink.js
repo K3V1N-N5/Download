@@ -85,6 +85,12 @@ const downloadLink = [
     filePath: "/download/DurabilityArmorViewer/v001.mcaddon",
     formatFile: "mcaddon",
   },
+  {
+    id: "/download/durability-armor-viewer/002-d5a86204-714d-4469-aed5-f80bf33f10c9",
+    fileName: "Durability Armor Viewer v0.0.2",
+    filePath: "/download/DurabilityArmorViewer/v002.mcaddon",
+    formatFile: "mcaddon",
+  },
   
   // Durability Tools Viewer
   {
@@ -138,8 +144,6 @@ const downloadLink = [
 export default downloadLink;
 
 /* cadangan uuid
-
-d5a86204-714d-4469-aed5-f80bf33f10c9
 
 5db96ee3-f74d-4c90-ada2-fffd11e1bae0
 
