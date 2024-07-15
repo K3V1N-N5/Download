@@ -27,6 +27,10 @@
 - [v0.0.4](https://dimz-project.vercel.app/download/day-counter-addon/004-aa390588-c865-4377-948d-c80220e1dc46)
 - [v0.0.5](https://dimz-project.vercel.app/download/day-counter-addon/005-8d594e54-f2ef-4c26-8254-c1a9dfbd75b1)
 
+### Dimz Inventory Overlay
+
+- [v0.0.1](https://dimz-project.vercel.app/dimz-inventory-overlay/001-5db96ee3-f74d-4c90-ada2-fffd11e1bae0)
+
 ### Durability Armor Viewer
 
 - [v0.0.1](https://dimz-project.vercel.app/download/durability-armor-viewer/001-fbe71cae-24a5-4200-b80f-ec9246af3dcd)
