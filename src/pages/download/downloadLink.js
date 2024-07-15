@@ -81,7 +81,7 @@ const downloadLink = [
   {
     id: "/download/dimz-inventory-overlay/001-5db96ee3-f74d-4c90-ada2-fffd11e1bae0",
     fileName: "Dimz Inventory Overlay v0.0.1",
-    filePath: "/download/DimzInventoryOverlay/v001.mcaddon",
+    filePath: "/download/DimzInventoryOverlay/v001.mcpack",
     formatFile: "mcpack",
   },
   
