@@ -29,7 +29,7 @@
 
 ### Dimz Inventory Overlay
 
-- [v0.0.1](https://dimz-project.vercel.app/dimz-inventory-overlay/001-5db96ee3-f74d-4c90-ada2-fffd11e1bae0)
+- [v0.0.1](https://dimz-project.vercel.app/download/dimz-inventory-overlay/001-5db96ee3-f74d-4c90-ada2-fffd11e1bae0)
 
 ### Durability Armor Viewer
 
