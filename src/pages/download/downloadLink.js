@@ -76,7 +76,14 @@ const downloadLink = [
     filePath: "/download/DayCounterAddon/v005.mcaddon",
     formatFile: "mcaddon",
   },
-  
+
+  // Dimz Inventory Overlay
+  {
+    id: "/download/dimz-inventory-overlay/001-5db96ee3-f74d-4c90-ada2-fffd11e1bae0",
+    fileName: "Dimz Inventory Overlay v0.0.1",
+    filePath: "/download/DimzInventoryOverlay/v001.mcaddon",
+    formatFile: "mcpack",
+  },
   
   // Durability Armor Viewer
   {
@@ -144,8 +151,6 @@ const downloadLink = [
 export default downloadLink;
 
 /* cadangan uuid
-
-5db96ee3-f74d-4c90-ada2-fffd11e1bae0
 
 d5020949-8748-4d38-bb99-f5a36263ecda
 
