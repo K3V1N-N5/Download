@@ -36,6 +36,12 @@ const downloadLink = [
     filePath: "/download/ChunkViewer/v001.mcpack",
     formatFile: "mcpack",
   },
+  {
+    id: "/download/chunk-viewer/002-d5020949-8748-4d38-bb99-f5a36263ecda",
+    fileName: "Chunk Viewer v0.0.2",
+    filePath: "/download/ChunkViewer/v002.mcpack",
+    formatFile: "mcpack",
+  },
 
   // Customizable Days Played
   {
@@ -151,8 +157,6 @@ const downloadLink = [
 export default downloadLink;
 
 /* cadangan uuid
-
-d5020949-8748-4d38-bb99-f5a36263ecda
 
 deaf637e-0834-477c-92fc-800f2818aac7
 
