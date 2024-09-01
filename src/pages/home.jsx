@@ -27,7 +27,7 @@ const Home = () => {
         </div>
       </div>
       <!-- sidebar-header -->
-     </div>
+     
     </nav>
    </div>
   );
