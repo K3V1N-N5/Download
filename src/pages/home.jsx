@@ -1,6 +1,12 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+function w3_open() {
+  document.getElementById("mySidebar").style.display = "block";
+}
 
+function w3_close() {
+  document.getElementById("mySidebar").style.display = "none";
+}
 const Home = () => {
   return (
 <!-- Sidebar -->
