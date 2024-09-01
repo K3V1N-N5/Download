@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const Home = () => {
   return (
-    <div class="page-wrapper chiller-theme toggled">
+<div class="page-wrapper chiller-theme toggled">
   <a id="show-sidebar" class="btn btn-sm btn-dark" href="#">
     <i class="fas fa-bars"></i>
   </a>
@@ -27,6 +27,9 @@ const Home = () => {
         </div>
       </div>
       <!-- sidebar-header -->
+     </div>
+    </nav>
+   </div>
   );
 };
 
