@@ -38,7 +38,7 @@ const App = () => {
             />
           ))}
         </Routes>
-       <Sidebar />
+      </Sidebar>
      </div>
   );
 };
