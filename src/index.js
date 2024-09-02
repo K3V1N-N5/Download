@@ -7,7 +7,6 @@ import Sidebar from './alvinqid/sidebar';
 ReactDOM.render(
   <React.StrictMode>
     <App />
-    <Sidebar />
   </React.StrictMode>,
   document.getElementById('root')
 );
