@@ -4,9 +4,10 @@ import './index.css';
 import App from './App';
 import Sidebar from './alvinqid/sidebar';
 
-ReactDOM.render(document.getElementById('root'),
+ReactDOM.render(
   <React.StrictMode>
     <App />
     <Sidebar />
-  </React.StrictMode>
+  </React.StrictMode>,
+  document.getElementById('root')
 );
