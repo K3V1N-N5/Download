@@ -11,7 +11,7 @@ import Sidebar from './alvinqid/Sidebar';
 const App = () => {
   return (
     <div>
-     <Sidebar>
+     <Sidebar />
       <Router>
         <Routes>
           <Route
@@ -40,7 +40,6 @@ const App = () => {
           ))}
         </Routes>
       </Router>
-</Sidebar>
     </div>
   );
 };
