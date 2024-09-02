@@ -11,10 +11,10 @@ import {
 import { NavLink } from 'react-router-dom';
 
 
-const Sidebar = ({children}) => {
-    const[isOpen ,setIsOpen] = useState(false);
-    const toggle = () => setIsOpen (!isOpen);
-    const menuItem=[
+const Sidebar = () => {
+    const[isOpen, setIsOpen] = useState(false);
+    const toggle = () => setIsOpen(!isOpen);
+    const menuItem = [
         {
             path:"/",
             name:"Dashboard",
@@ -45,7 +45,8 @@ const Sidebar = ({children}) => {
             name:"Product List",
             icon:<FaThList/>
         }
-    ]
+    ];
+    
     return (
         <div className="container">
            <div style={{width: isOpen ? "200px" : "50px"}} className="sidebar">
@@ -64,7 +65,6 @@ const Sidebar = ({children}) => {
                    ))
                }
            </div>
-           <main>{children}</main>
         </div>
     );
 };
