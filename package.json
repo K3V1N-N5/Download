@@ -14,9 +14,9 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "npm run siji && npm run loro"
-    "siji":"react-scripts start",
-    "loro": "cd src && ln -s '../alvinqid' 'alvinqid'",
+    "start": "npm run siji && npm run loro",
+    "siji": "react-scripts start",
+    "loro": "cd src && ln -s ../alvinqid alvinqid",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
