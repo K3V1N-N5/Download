@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 import Ads from './pages/ads';
 import Home from './pages/home';
 import DownloadFile from './pages/download/downloadFile';
@@ -12,7 +12,6 @@ const App = () => {
   return (
     <div>
      <Sidebar />
-      <Router>
         <Routes>
           <Route
             key={"/"}
@@ -39,8 +38,7 @@ const App = () => {
             />
           ))}
         </Routes>
-      </Router>
-    </div>
+     </div>
   );
 };
 
