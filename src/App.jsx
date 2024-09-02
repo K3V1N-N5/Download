@@ -6,11 +6,12 @@ import DownloadFile from './pages/download/downloadFile';
 import DownloadLink from './pages/download/downloadLink';
 import BlankPage from './pages/blank/blankPage';
 import BlankLink from './pages/blank/blankLink';
-
+import Sidebar from './pages/sidebar';
 
 const App = () => {
   return (
     <div>
+      <sidebar />
         <Routes>
           <Route
             key={"/"}
